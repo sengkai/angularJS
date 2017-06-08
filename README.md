@@ -11,3 +11,11 @@ For this mini project, I'm attempting to cover the following foundation of Angul
 
 #### Prerequisite to start this project.
 1. Node.js (https://nodejs.org/en/download/)
+2. All instruction and settings are based on IntellJ IDEA
+
+#### Instruction to run AngularJS CLI
+* Clone this Git project onto your local
+* If you are using command prompt, CD to the project directory
+* Type "npm install" (Downloading of the package takes time)
+* Type "npm start" 
+* Open any browser and type in the following link (http://localhost:8080/)
